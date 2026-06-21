@@ -48,7 +48,7 @@ footer a {
 
 footer a:hover {
   color: blue;
-  text-shadow: 0 0 5px black;
+  text-shadow: 0 0 6px black;
 }
 
 header figure {
